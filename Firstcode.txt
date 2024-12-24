@@ -1,2 +1,0 @@
-Hey this is First code for Git !!
-Hello World
