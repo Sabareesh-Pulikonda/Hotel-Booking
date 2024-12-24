@@ -40,3 +40,10 @@ CREATE TABLE Bookings (
     Booking_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     FOREIGN KEY (room_no) REFERENCES Rooms(room_no)
 );
+
+
+## Requirements
+Java 8 or higher: The application is built with Java.
+MySQL: Used for the backend database.
+JDBC: For database interaction between Java and MySQL.
+IDE: Eclipse or any Java IDE for development.
